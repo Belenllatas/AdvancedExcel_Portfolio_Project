@@ -1,81 +1,107 @@
-# Advanced Excel Portfolio Project / Proyecto Portafolio Excel Avanzado
+# 📊 Advanced Excel Portfolio Project / Proyecto Portafolio Excel Avanzado
 
-**Autor / Author:** Belén Llatas Beny  
-**LinkedIn:** [www.linkedin.com/in/belenllatasbeny](https://www.linkedin.com/in/belenllatasbeny)  
-**Email:** belenllatas1@gmail.com
-
----
-
-## Descripción del proyecto / Project Description
-
-Este proyecto simula un caso realista de análisis y control de exportaciones internacionales, utilizando técnicas avanzadas de Excel para automatizar, analizar y optimizar datos logísticos y financieros.
-
-This project simulates a realistic case of international export data analysis and control, using advanced Excel techniques to automate, analyze, and optimize logistics and financial data.
+**Author / Autora: Belén Llatas Beny**  
+🔗 [LinkedIn](https://www.linkedin.com/in/belenllatasbeny)  
+📧 belenllatas1@gmail.com  
 
 ---
 
-## Contenido del archivo Excel / Excel File Contents
+## 🗂️ Project Description / Descripción del Proyecto
 
-| Hoja / Sheet          | Descripción en español                                          | Description in English                                      |
-|-----------------------|----------------------------------------------------------------|-------------------------------------------------------------|
-| `1_Datos`             | Base de datos con registros históricos de exportaciones.      | Database with historical export data.                        |
-| `2_Modelo`            | Modelo principal con cálculos avanzados: precios, beneficios y análisis. | Main model with advanced calculations: prices and profits.  |
-| `3_Dashboard`         | Dashboard profesional con KPIs y visualizaciones clave.        | Professional dashboard with key KPIs and charts.             |
-| `4_Solver_Escenarios` | Escenarios de optimización con Solver y restricciones logísticas. | Solver optimization scenarios with logistic constraints.    |
-| `5_Control_Validado`  | Hoja operativa con validación para introducir pedidos manuales. | Operational sheet with validation for manual orders.        |
-| `6_Resumen`           | Informe ejecutivo con resumen, conclusiones y recomendaciones. | Executive report with summary, conclusions, and advice.     |
+This project simulates a **realistic business case involving the analysis and control of international exports**, using advanced Excel techniques to automate processes, analyze data, and optimize logistics and finance.
 
----
+Este proyecto simula un **caso realista de análisis y control de exportaciones internacionales**, utilizando técnicas avanzadas de Excel para automatizar procesos, analizar datos y optimizar logística y finanzas.
 
-## Funcionalidades clave / Key Features
+The repository contains two main parts:  
+El repositorio contiene dos partes principales:
 
-#### Español
+1. **Final Portfolio Project** – A structured and professional case study based on realistic data.  
+   **Proyecto Final de Porfolio** – Un caso estructurado y profesional basado en datos realistas.
 
-- Limpieza y automatización de datos con Power Query.  
-- Análisis avanzado con funciones como XLOOKUP, SUMIFS, y más.  
-- Creación de dashboards profesionales con KPIs y gráficos dinámicos.  
-- Modelos de optimización logística mediante Solver para maximizar beneficios.  
-- Interfaces operativas con validación de datos para control de pedidos.  
-- Informes ejecutivos claros y visualmente atractivos para toma de decisiones.  
-
-#### English
-
-- Data cleaning and automation with Power Query.  
-- Advanced analysis using functions like XLOOKUP, SUMIFS, and more.  
-- Professional dashboards with KPIs and dynamic charts.  
-- Logistic optimization models using Solver to maximize profits.  
-- Operational interfaces with data validation for order control.  
-- Clear and visually appealing executive reports for decision making.  
+2. **Learning Workbook** – A practice file developed during the training phase to reinforce key concepts.  
+   **Cuaderno de Aprendizaje** – Un archivo de práctica desarrollado durante la formación para reforzar conceptos clave.
 
 ---
 
-## Cómo usar este proyecto / How to use this project
+## 📁 Repository Structure / Estructura del Repositorio
 
-#### Español
-
-1. Explora las hojas del archivo Excel para comprender cada módulo.  
-2. Sigue las instrucciones en este README para reproducir análisis y optimizaciones.  
-3. Modifica los datos según tus necesidades y ejecuta Solver para optimizar resultados.  
-4. Usa la hoja operativa para registrar pedidos con validaciones automáticas y control.  
-5. Consulta la hoja resumen para visualizar resultados clave y conclusiones ejecutivas.
-
-#### English
-
-1. Explore the Excel sheets to understand each module.  
-2. Follow the instructions in this README to reproduce analyses and optimizations.  
-3. Modify the data as needed and run Solver to optimize results.  
-4. Use the operational sheet to record orders with automatic validations and control.  
-5. Check the summary sheet to view key results and executive conclusions.
+| Folder / Carpeta                | Description (EN)                                           | Descripción (ES)                                              |
+|-------------------------------|-------------------------------------------------------------|---------------------------------------------------------------|
+| `1_Final_Portfolio_Project`   | Professional case study using real data and analysis tools | Proyecto profesional con datos realistas y herramientas de análisis |
+| `2_Learning_Workbook`         | Practice workbook used during the training phase           | Cuaderno de práctica utilizado durante la etapa de aprendizaje  |
 
 ---
 
-## Contacto / Contact
+## 📊 Excel File Contents / Contenido del Archivo Excel
 
-Si tienes dudas, sugerencias o quieres colaborar, no dudes en contactarme:  
+### 1_Final_Portfolio_Project → `Proyecto_Portfolio_Belen_ExcelAvanzado.xlsx`
 
-If you have questions, suggestions, or want to collaborate, feel free to reach out:  
+| Sheet / Hoja            | Description in English                                           | Descripción en español                                          |
+|-------------------------|------------------------------------------------------------------|------------------------------------------------------------------|
+| 1_Datos                 | Database with historical export data.                           | Base de datos con registros históricos de exportaciones.         |
+| 2_Modelo                | Main model with advanced calculations: prices and profits.      | Modelo principal con cálculos avanzados: precios y beneficios.  |
+| 3_Dashboard             | Professional dashboard with key KPIs and charts.                | Dashboard profesional con KPIs y visualizaciones clave.         |
+| 4_Solver_Escenarios     | Solver optimization scenarios with logistic constraints.        | Escenarios de optimización con Solver y restricciones logísticas. |
+| 5_Control_Validado      | Operational sheet with validation for manual orders.            | Hoja operativa con validación para introducir pedidos manuales. |
+| 6_Resumen               | Executive report with summary, conclusions, and advice.         | Informe ejecutivo con resumen, conclusiones y recomendaciones.  |
 
-- LinkedIn: [www.linkedin.com/in/belenllatasbeny](https://www.linkedin.com/in/belenllatasbeny)  
-- Email: belenllatas1@gmail.com  
+### 2_Learning_Workbook → `Belen_ExcelAvanzado_Workbook.xlsx`
+
+- Practice workbook with exercises on Power Query, Solver, scenarios, data validation, pivot tables, dashboards, and advanced Excel formulas (`VLOOKUP`, `INDEX`, `MATCH`, `IF`, `SUMIFS`, etc.).
+- Cuaderno de práctica con ejercicios sobre Power Query, Solver, escenarios, validación de datos, tablas dinámicas, dashboards y funciones avanzadas de Excel (`BUSCARV`, `ÍNDICE`, `COINCIDIR`, `SI`, `SUMAR.SI.CONJUNTO`, etc.).
 
 ---
+
+## 🧠 Key Features / Funcionalidades Clave
+
+### English
+
+- Data cleaning and automation with Power Query  
+- Advanced analysis using functions like XLOOKUP, SUMIFS, IF, INDEX, MATCH  
+- Professional dashboards with KPIs and dynamic charts  
+- Logistic optimization models using Solver  
+- Operational tools with data validation and user input controls  
+- Scenarios and what-if analysis for decision making  
+- Clear and visually appealing executive reports
+
+### Español
+
+- Limpieza y automatización de datos con Power Query  
+- Análisis avanzado con funciones como XLOOKUP, SUMAR.SI.CONJUNTO, SI, ÍNDICE, COINCIDIR  
+- Dashboards profesionales con KPIs y gráficos dinámicos  
+- Modelos de optimización logística con Solver  
+- Herramientas operativas con validación de datos y control de pedidos  
+- Escenarios y análisis "what-if" para toma de decisiones  
+- Informes ejecutivos visuales y claros para facilitar la toma de decisiones
+
+---
+
+## ▶️ How to Use / Cómo Usar
+
+### English
+
+1. Explore each Excel sheet to understand the model logic  
+2. Modify input data to simulate different business cases  
+3. Use the Solver to optimize outcomes under different constraints  
+4. Interact with the validated sheet to simulate order entries  
+5. Review the executive summary to extract conclusions  
+6. Use the Learning Workbook for concept reinforcement and practice
+
+### Español
+
+1. Explora cada hoja de Excel para entender la lógica del modelo  
+2. Modifica los datos para simular distintos casos empresariales  
+3. Utiliza Solver para optimizar los resultados bajo diferentes restricciones  
+4. Usa la hoja validada para simular pedidos con control automático  
+5. Revisa el informe ejecutivo para extraer conclusiones clave  
+6. Utiliza el Cuaderno de Aprendizaje para reforzar conceptos y practicar
+
+---
+
+## 📬 Contact / Contacto
+
+If you have questions, suggestions or collaboration ideas:  
+Si tienes dudas, sugerencias o ideas para colaborar:
+
+📧 belenllatas1@gmail.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/belenllatasbeny)
