@@ -1,7 +1,7 @@
 # Advanced Excel Portfolio Project / Proyecto Portafolio Excel Avanzado
 
 **Autor / Author:** Belén Llatas Beny  
-**LinkedIn:** [www.linkedin.com/in/belénllatasbeny](https://www.linkedin.com/in/belénllatasbeny)  
+**LinkedIn:** [www.linkedin.com/in/belenllatasbeny](https://www.linkedin.com/in/belenllatasbeny)  
 **Email:** belenllatas1@gmail.com
 
 ---
@@ -75,18 +75,7 @@ Si tienes dudas, sugerencias o quieres colaborar, no dudes en contactarme:
 
 If you have questions, suggestions, or want to collaborate, feel free to reach out:  
 
-- LinkedIn: [www.linkedin.com/in/belénllatasbeny](https://www.linkedin.com/in/belénllatasbeny)  
+- LinkedIn: [www.linkedin.com/in/belenllatasbeny](https://www.linkedin.com/in/belenllatasbeny)  
 - Email: belenllatas1@gmail.com  
 
 ---
-
-## Licencia / License
-
-Este proyecto está bajo la licencia MIT. Puedes usarlo libremente, incluso en proyectos comerciales, siempre que mantengas esta nota de licencia y atribución.  
-
-This project is licensed under the MIT License. You are free to use it, even commercially, as long as you include this license note and attribution.  
-
----
-
-© 2025 Belén Llatas Beny
-
